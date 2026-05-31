@@ -1,5 +1,9 @@
 # 六级听力邪修：改革后近10年的答题规律分析
 
+感谢以下资源仓库提供的真题数据支持：
+- [CET-4-6-Atomic-Supply](https://github.com/gcs8581662641/CET-4-6-Atomic-Supply)
+- [CET6-Resources](https://github.com/YinsinSirius/CET6-Resources)
+
 > 数据驱动，综合历年真题题干、答案与原文，系统拆解六级听力选项规律，听不懂也能选对。
 
 > 本文基于 38 套历年真题（2016.12 – 2025.12），共 938 道题，综合题干、答案与听力原文三个维度进行系统分析。以下规律均有数据支撑，不是玄学。
