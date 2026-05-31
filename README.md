@@ -4,7 +4,6 @@
 
 > 本文基于 38 套历年真题（2016.12 – 2025.12），共 938 道题，综合题干、答案与听力原文三个维度进行系统分析。以下规律均有数据支撑，不是玄学。
 >
-> 分析所用的全部真题资源（题干、答案、听力原文）及归一化脚本见 [CET-6-Listening-10-Years-Resources-and-Analysis](https://github.com/Ysoseri1224/CET-6-Listening-10-Years-Resources-and-Analysis)。
 
 ## 目录
 
