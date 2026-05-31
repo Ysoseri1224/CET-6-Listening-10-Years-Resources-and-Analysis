@@ -983,3 +983,16 @@ Section 内相邻同字母率是 10.25%，而跨 Section 边界只有 7.7–7.9%
 5. **递归推断全套**：你确定的题越多，剩余题的约束越强。钳制约束在你有大量锚点时效果最大（74.4% 排除率）
 6. **识别干扰项套路**：如果一个选项的词你确实听到了，但不是在当前题目对应的段落——它是陷阱
 7. **计划变更型对话**：原计划永远是干扰项，变更后的方案才是答案
+
+---
+
+## 许可协议
+
+本仓库采用双协议授权：
+
+- **资源文件**（音频、题干、答案、听力原文、脚本）：[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — 自由分享与使用，注明出处即可
+- **本文（README.md）**：[CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) — 禁止商用、禁止演绎、禁止未授权转载
+
+如需超出协议范围的使用，请提 [Issue](https://github.com/Ysoseri1224/CET-6-Listening-10-Years-Resources-and-Analysis/issues) 联系作者。
+
+详见 [LICENSE](./LICENSE)。
