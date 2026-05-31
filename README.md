@@ -1,5 +1,7 @@
 # 六级听力邪修：改革后近10年的答题规律分析
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20474009.svg)](https://doi.org/10.5281/zenodo.20474009)
+
 感谢以下资源仓库提供的真题数据支持：
 - [CET-4-6-Atomic-Supply](https://github.com/gcs8581662641/CET-4-6-Atomic-Supply)
 - [CET6-Resources](https://github.com/YinsinSirius/CET6-Resources)
